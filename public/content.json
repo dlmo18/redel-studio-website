@@ -1,0 +1,116 @@
+{
+  "navigation": {
+    "logo": "R/S",
+    "logoSubtitle": "Redel Studio Interiors",
+    "links": [
+      { "label": "Services", "href": "#services" },
+      { "label": "The Studio", "href": "#studio" },
+      { "label": "Projects", "href": "#projects" },
+      { "label": "Press", "href": "#press" },
+      { "label": "Contact", "href": "#contact" }
+    ]
+  },
+  "services": {
+    "sectionNumber": "01",
+    "sectionLabel": "What We Do",
+    "items": [
+      {
+        "id": 1,
+        "number": "Residential Interiors",
+        "title": "Interiors",
+        "description": "Redel Studio is an interior design studio focused on creating elevated, livable homes and gathering spaces that balance refinement with an effortless, unexpected edge.",
+        "ctaLabel": "Explore next projects",
+        "ctaHref": "#projects",
+        "images": ["/images/hero-interior.jpg"]
+      }
+    ]
+  },
+  "studio": {
+    "sectionNumber": "02",
+    "sectionLabel": "The Studio",
+    "title": "Founded by Patty Redelius,",
+    "body": "Redel Studio designs elevated residential spaces with a refined, unexpected point of view. With experience shaped across the world, her work reflects a distinctly global perspective—driven by the belief that passion has the power to inspire and move others.",
+    "ctaLabel": "Meet the Team",
+    "ctaHref": "#contact",
+    "image": "/images/team.jpg",
+    "imageAlt": "Redel Studio design team"
+  },
+  "projects": {
+    "sectionNumber": "03",
+    "sectionLabel": "Projects",
+    "items": [
+      {
+        "id": 1,
+        "title": "Woodstock lane estate",
+        "category": "Residential",
+        "images": [
+          "/images/project-1-1.jpeg",
+          "/images/project-1-2.jpeg",
+          "/images/project-1-3.jpeg"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Oceanfront Private Residence",
+        "category": "Residential",
+        "images": ["/images/project-2.jpeg"]
+      },
+      {
+        "id": 3,
+        "title": "Old Towne Lane Residence",
+        "category": "Residential",
+        "images": ["/images/project-3-1.jpeg"]
+      },
+      {
+        "id": 4,
+        "title": "Ranch Style Residence",
+        "category": "Residential",
+        "images": []
+      },
+      {
+        "id": 5,
+        "title": "Woodstock Modern Estate",
+        "category": "Residential",
+        "images": [
+          "/images/project-5-1.jpeg",
+          "/images/project-5-2.jpeg",
+          "/images/project-5-3.jpeg"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Spec Homes",
+        "category": "Residential",
+        "images": ["/images/project-5-1.jpeg"]
+      }
+    ]
+  },
+  "press": {
+    "sectionNumber": "04",
+    "sectionLabel": "Press",
+    "heading": "As seen in",
+    "items": [
+      {
+        "publication": "Atlanta Homes & Lifestyles",
+        "year": "2026",
+        "cover": "/images/press.jpg"
+      }
+    ]
+  },
+  "contact": {
+    "sectionNumber": "05",
+    "sectionLabel": "Get In Touch",
+    "heading": "Let's create something extraordinary.",
+    "body": "We would love to hear about your next project. Whether you are building a new home, renovating a space, or looking for design consultation, our team is ready to help bring your vision to life.",
+    "email": "nicetomeetyou@redelstudio.com",
+    "phone": "(619) 310-7928",
+    "phoneHref": "tel:+16193107928",
+    "studioLabel": "Studio",
+    "address": "Atlanta, Georgia"
+  },
+  "footer": {
+    "logo": "R/S",
+    "logoSubtitle": "Redel Studio Interiors",
+    "copyright": "Redel Studio Interiors. All rights reserved."
+  }
+}
